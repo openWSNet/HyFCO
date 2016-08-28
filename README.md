@@ -8,7 +8,9 @@ One of the critical concerns in wireless sensor networks (WSNs) is the continuou
 
 
 note:
-1) perform main.m (main loop)
-2) more than 5,000 test cases are packaged into "experimental_cases.zip," before you run main.m please unpack them in the same folder of main.m
+
+1. main.m (main loop)
+
+2. more than 5,000 test cases are packaged into "experimental_cases.zip," before you run main.m please unpack them in the same folder of main.m
 
 paper link: http://ieeexplore.ieee.org/document/6982222/
